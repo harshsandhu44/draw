@@ -4,3 +4,9 @@
 .tl-watermark_SEE-LICENSE {
   display: none !important;
 }
+
+@base {
+  body {
+    @apply font-sans antialiased;
+  }
+}

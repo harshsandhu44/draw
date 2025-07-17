@@ -1,0 +1,11 @@
+Contact: mailto:security@harshsandhu.com
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://harshsandhu.com/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://draw.harshsandhu.com/.well-known/security.txt
+Policy: https://harshsandhu.com/security-policy
+Acknowledgments: https://harshsandhu.com/security-acknowledgments
+
+# Security Contact Information for Draw by Harsh Sandhu
+# If you discover a security vulnerability, please report it responsibly.
+# We appreciate your efforts to improve the security of our application.
